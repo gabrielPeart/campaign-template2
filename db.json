@@ -1,0 +1,19 @@
+{
+     "template": {
+         "background_image_url": "<string>",
+         "title": "<string>",
+         "sub_title": "<string>",
+         "button": {
+             "label": "<string",
+             "action": "open_premium_view"
+         }
+     },
+     "android_metadata": {
+         "skus": {
+             "1": "<string>",
+             "3": "<string>",
+             "12": "<string>"
+         }
+     },
+     "ios_metadata": {
+} }
