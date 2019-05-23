@@ -8,7 +8,10 @@
 		"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
 		"action": {
 			"type": "plan_with_id",
-			"argument": "47"
+			"argument": {
+				"name": "plan_id",
+				"value": "47"
+			}
 		}
 	}
 }
